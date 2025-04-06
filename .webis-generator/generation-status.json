@@ -1,8 +1,11 @@
 {
-  "projectName": "סטודיו-לצילום-ביתא-6418",
-  "businessName": "סטודיו לצילום ביתא",
-  "created": "2025-04-06T16:20:18.107Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-04-06T16:20:41.049Z",
+  "status": {
+    "totalComponents": 0,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [],
+  "repoName": "webis-site-stvdyv-ltsylvm-byta-1743956417975"
 }
